@@ -9,7 +9,11 @@ Case exists, it will be destroyed and the function will return -1.
 Case not, it will not be destroyed and the function will return noone.
 
 
+Example:
+
 my_list = ds_list_create();
+
 show_debug_message(ds_list_destroy_exists(my_list)); // -1
+
 show_debug_message(ds_list_destroy_exists(my_list)); // noone (-4)
 
