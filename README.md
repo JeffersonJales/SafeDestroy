@@ -1,4 +1,4 @@
-# Safe Destroy 1.0.0
+# Safe Destroy 1.0.1
 Before destroing anything, check if this thing exists, but without the boring part.
 For Game Maker Studio 2.3.
 
